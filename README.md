@@ -1,5 +1,6 @@
 
-![cleanarch_icon drawio](https://github.com/taruncopper/CleanArchitectureXCodeTemplate/assets/167800713/ab092a60-6503-49f8-a798-84f14ed72c4d)
+
+![cleanarch_icon drawio](https://github.com/tarunkhurana2015/CleanArchitectureXCodeTemplate/assets/9640541/5221a4d8-e6f9-4c36-8430-60930d362092)
 
 
 # Clean Architecture XCodeTemplate
